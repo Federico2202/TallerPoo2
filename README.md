@@ -2,5 +2,5 @@
 
 Integrantes:
 
-Daniel Ortiz
+Daniel Ortiz -
 Federico Bornachera
